@@ -14,7 +14,7 @@ cd hangman-app
 npm install
 ```
 
-3. Play the Game! [link](localhost:8080/)
+3. Play the Game! [link](http://localhost:8080/)
 ```
 npm run play
 ```
