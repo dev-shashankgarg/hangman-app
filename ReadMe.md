@@ -1,7 +1,7 @@
 ## Hangman Game
 Application built using JS (packaged using webpack)
 
-##Setup
+#### Setup
 
 1. clone the repository
 ```
