@@ -16,6 +16,8 @@ npm install webpack
 npm install webpack-cli
 npm install webpack-dev-server
 npm install @babel/core
+npm install @babel/preset-env
 npm install babel-loader
-npm install babel-preset-env
+npm install core-js
+npm install regenerator-runtime
 ```
